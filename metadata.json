@@ -1,0 +1,5 @@
+{
+  "name": "Harding Editor",
+  "description": "A professional, AI-powered image editor using Gemini 2.5 Flash Image to transform photos with natural language prompts.",
+  "requestFramePermissions": []
+}
